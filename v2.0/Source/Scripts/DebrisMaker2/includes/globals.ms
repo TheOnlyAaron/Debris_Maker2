@@ -1,0 +1,8 @@
+global DMfun
+global DebrisMaker
+global DebrisUtil
+global DebrisModules
+global DebrisMakerVer
+global DebrisMakerVerString
+global DebrisMakerINIfile
+global DebrisMakerAboutText
